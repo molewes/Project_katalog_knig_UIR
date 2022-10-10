@@ -1,2 +1,3 @@
 print("Hello, World!")
-print("k")
+print("kатя")
+print("пашол нахой")
